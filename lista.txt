@@ -1,0 +1,3 @@
+El desarrollo back-end es la parte oculta de las aplicaciones web y móviles ("detrás de escena"),  responsable 
+de la lógica, el servidor y las bases de datos. Funciona como el cerebro que procesa datos, gestiona la seguridad
+y permite que el front-end (lo que ve el usuario) funcione, garantizando el intercambio de información.
