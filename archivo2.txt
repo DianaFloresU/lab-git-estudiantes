@@ -1,0 +1,4 @@
+Github
+Es una plataforma en línea que se usa para guardar, gestionar y colaborar en proyectos.
+Es un almacenamiento en la nube donde se puede alojar código.
+Permite trabajar junto con otros desarrolladores

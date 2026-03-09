@@ -1,0 +1,6 @@
+Git
+Git es un sistema de control de versiones
+Herramienta que registra cambios en un proyecto
+Mantiene una historia de lo que se esta trabajando
+Útil para el seguimiento de los desarrolladores
+Permite regresar al código original
